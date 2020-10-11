@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>images/close.jpg</file>
+    <file>images/reload.jpg</file>
+    <file>images/tick.jpg</file>
+  </qresource>
+</RCC>
